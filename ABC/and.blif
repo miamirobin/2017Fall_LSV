@@ -1,0 +1,11 @@
+.model test
+.inputs a b 
+.outputs e f
+.names a b e
+11 1
+
+
+.names b a f
+11 1
+
+.end

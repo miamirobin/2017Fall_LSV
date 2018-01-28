@@ -1,0 +1,3 @@
+read final_testcase/c2670.blif;
+MajDecompose
+quit
